@@ -14,6 +14,7 @@ preritornello:
     Bm C D Em
     Bm C D Am
     x2
+    
 ### mialzolamattina
 chiave: D
 intro:

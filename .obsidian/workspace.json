@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a212eab710859208",
+        "id": "76b9319e422e7a36",
         "type": "tabs",
         "children": [
           {
-            "id": "34d6cffec01bbc95",
+            "id": "286018971f17de36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "accordi cinema all'aperto per jay.md",
-                "mode": "source",
-                "source": true
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "accordi cinema all'aperto per jay"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#concertinoingiardino_tre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,10 +179,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34d6cffec01bbc95",
+  "active": "286018971f17de36",
   "lastOpenFiles": [
-    "accordi cinema all'aperto per jay.md",
+    "concertinoingiardino tre/band concertinoingiardino tre.md",
+    "concertinoingiardino tre/main concertino in giardino tre.md",
+    "concertinoingiardino tre/scrivere a band cig3.md",
+    "concertinoingiardino tre/draft proposte cig3.md",
+    "concertinoingiardino tre/concertinoingiardino tre chiamata 2025-03-07.md",
     "bozze messaggi/mael riguardo a leonardo.md",
+    "accordi cinema all'aperto per jay.md",
+    "concertinoingiardino tre",
     "concertinoingiardino tre chiamata 2025-03-07.md",
     "band concertinoingiardino tre.md",
     "bozze messaggi",
