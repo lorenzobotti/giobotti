@@ -1,0 +1,1 @@
+[paperless-ngx](https://docs.paperless-ngx.com/)
