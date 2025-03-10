@@ -11,6 +11,7 @@
 - [ ] blk donuts
     scritto a sirbu 10 marzo 09:52
 - [ ] club catastrofe
+	[[shockdistruttivo cig3]]
     scritto a shockdistruttivo 10 marzo 11:33  
     12:41 chiede info riguardo a quanto suonare e situa mezzi pubblici
     14:01 gli dico del treno a trecelle + durata 20-50 minuti
@@ -23,7 +24,7 @@
     risposta affermativa, dice che si tira insieme per un set + chiede quanto suonare
     13:45 gli dico durata 20-50 minuti
 - [ ] sonars
-    preparato draft del messaggio [[../sonars cig3]] ma aspetto di capire se sono ancora in attività
+    preparato draft del messaggio [[sonars cig3]] ma aspetto di capire se sono ancora in attività
     * chiesto a lucacoluccia se li conosce
     * chiesto a giovo dust se li conosce
 - [ ] dogs i know

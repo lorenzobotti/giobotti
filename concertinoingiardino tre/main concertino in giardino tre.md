@@ -1,7 +1,5 @@
 #concertinoingiardino_tre
 [[band concertinoingiardino tre]]
-
-
 ## cose da organizzare
 - [ ] scrivere a band
     [[scrivere a band cig3]]
