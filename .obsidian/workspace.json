@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76b9319e422e7a36",
+        "id": "017d04edabce1253",
         "type": "tabs",
         "children": [
           {
-            "id": "286018971f17de36",
+            "id": "e0f51a1affa9b07d",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -179,8 +179,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "286018971f17de36",
+  "active": "e0f51a1affa9b07d",
   "lastOpenFiles": [
+    "soldi madre.md",
+    "musescore.com.png",
+    "musescore.org.png",
+    "edone 29 marzo.md",
+    "bozze messaggi/sonars cig3.md",
+    "bozze messaggi/shockdistruttivo cig3.md",
     "concertinoingiardino tre/band concertinoingiardino tre.md",
     "concertinoingiardino tre/main concertino in giardino tre.md",
     "concertinoingiardino tre/scrivere a band cig3.md",
@@ -195,8 +201,6 @@
     "main concertino in giardino tre.md",
     "laboratori.md",
     "istruzioni per scaricare musescore e audacity.md",
-    "musescore.com.png",
-    "musescore.org.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
