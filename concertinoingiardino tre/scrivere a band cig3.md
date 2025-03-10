@@ -11,7 +11,8 @@
 - [ ] blk donuts
     scritto a sirbu 10 marzo 09:52
 - [ ] club catastrofe
-    scritto a shockdistruttivo 10 marzo 11:33
+    scritto a shockdistruttivo 10 marzo 11:33  
+    chiede info riguardo a quanto suonare e situa mezzi pubblici
 - [ ] bezna selhani
     scritto a lorenzo 10 marzo 11:35 -> "ti faccio sapere"
 - [ ] fede vipera
