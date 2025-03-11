@@ -35,3 +35,10 @@
 * cane_studio_
 * mofwmofwmofw
 * olmolmolmo
+
+### amici di marlon
+* dungeon (è il suo gruppo anche se lui non c'è)
+	* perok
+	* troviero
+* pelusje
+* onosecond
