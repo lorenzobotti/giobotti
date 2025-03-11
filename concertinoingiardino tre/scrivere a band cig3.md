@@ -8,12 +8,13 @@
     scritto a ode 10 marzo 09:12 -> excited, si sente con terry
 - [ ] zeptepi
     scritto a emacoppo 10 marzo 09:20
-- [ ] blk donuts
+- [x] blk donuts
     scritto a sirbu 10 marzo 09:52
     ha chiesto info extra sulle casse e gliele ho mandate con dodici ore di ritardo
     dice che in base alle casse decidono se suonare
     tbf la vedo dura, vorranno un bel po' di soldi
     mostrano interesse e chiedono di com'è fatto l'impianto audio
+    dicono ci sono tranne l'8 giugno
 - [ ] club catastrofe
     scritto a shockdistruttivo 10 marzo 11:33  
     12:41 chiede info riguardo a quanto suonare e situa mezzi pubblici

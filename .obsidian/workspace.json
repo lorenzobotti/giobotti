@@ -11,10 +11,15 @@
             "id": "100eb2c07d934f48",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/graph.json",
+                "bFile": ".obsidian/graph.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: graph.json"
             }
           },
           {
@@ -192,14 +197,14 @@
   "active": "100eb2c07d934f48",
   "lastOpenFiles": [
     "concertinoingiardino tre/scrivere a band cig3.md",
-    "concertinoingiardino tre/band concertinoingiardino tre.md",
+    "concertinoingiardino tre/main concertino in giardino tre.md",
     "concertinoingiardino tre/draft proposte cig3.md",
     "concertinoingiardino tre/concertinoingiardino tre chiamata 2025-03-07.md",
-    "concertinoingiardino tre/main concertino in giardino tre.md",
+    "concertinoingiardino tre/band concertinoingiardino tre.md",
+    "bozze messaggi/mael riguardo a leonardo.md",
     "sonars cig3.md",
     "bozze messaggi/sonars cig3.md",
     "bozze messaggi/shockdistruttivo cig3.md",
-    "bozze messaggi/mael riguardo a leonardo.md",
     "bozze messaggi/frederick paysden bozza cig3.md",
     "conflict-files-obsidian-git.md",
     "accordi tatwd per jay.md",
