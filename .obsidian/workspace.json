@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f85de6da8d472875",
+        "id": "258f23253fc65a8b",
         "type": "tabs",
         "children": [
           {
-            "id": "4bbbcb574730bae1",
+            "id": "100eb2c07d934f48",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": "accordi tatwd per jay.md",
+                "bFile": "accordi tatwd per jay.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Diff: accordi tatwd per jay"
             }
           }
         ]
@@ -179,28 +179,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4bbbcb574730bae1",
+  "active": "100eb2c07d934f48",
   "lastOpenFiles": [
-    "concertinoingiardino tre/main concertino in giardino tre.md",
     "concertinoingiardino tre/scrivere a band cig3.md",
-    "bozze messaggi/sonars cig3.md",
-    "concertinoingiardino tre/draft proposte cig3.md",
-    "concertinoingiardino tre/concertinoingiardino tre chiamata 2025-03-07.md",
+    "accordi tatwd per jay.md",
+    "accordi cinema all'aperto per jay.md",
+    "2025-03-10.md",
+    "cose fighe da googlare.md",
     "bozze messaggi/shockdistruttivo cig3.md",
+    "bozze messaggi/mael riguardo a leonardo.md",
+    "laboratori.md",
+    "istruzioni per scaricare musescore e audacity.md",
+    "concertinoingiardino tre/main concertino in giardino tre.md",
+    "edone 29 marzo.md",
+    "concertinoingiardino tre/concertinoingiardino tre chiamata 2025-03-07.md",
+    "concertinoingiardino tre/draft proposte cig3.md",
     "concertinoingiardino tre/band concertinoingiardino tre.md",
+    "bozze messaggi/sonars cig3.md",
     "soldi madre.md",
     "musescore.com.png",
     "musescore.org.png",
-    "edone 29 marzo.md",
-    "bozze messaggi/mael riguardo a leonardo.md",
-    "accordi cinema all'aperto per jay.md",
     "concertinoingiardino tre",
     "concertinoingiardino tre chiamata 2025-03-07.md",
     "band concertinoingiardino tre.md",
     "bozze messaggi",
     "main concertino in giardino tre.md",
-    "laboratori.md",
-    "istruzioni per scaricare musescore e audacity.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
