@@ -11,32 +11,27 @@
             "id": "100eb2c07d934f48",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
             "id": "49412d955fa6f976",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "concertinoingiardino tre/scrivere a band cig3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "scrivere a band cig3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,24 +189,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49412d955fa6f976",
+  "active": "100eb2c07d934f48",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "concertinoingiardino tre/scrivere a band cig3.md",
+    "concertinoingiardino tre/band concertinoingiardino tre.md",
+    "concertinoingiardino tre/draft proposte cig3.md",
+    "concertinoingiardino tre/concertinoingiardino tre chiamata 2025-03-07.md",
+    "concertinoingiardino tre/main concertino in giardino tre.md",
+    "sonars cig3.md",
+    "bozze messaggi/sonars cig3.md",
+    "bozze messaggi/shockdistruttivo cig3.md",
+    "bozze messaggi/mael riguardo a leonardo.md",
+    "bozze messaggi/frederick paysden bozza cig3.md",
+    "conflict-files-obsidian-git.md",
     "accordi tatwd per jay.md",
     "accordi cinema all'aperto per jay.md",
     "2025-03-10.md",
     "cose fighe da googlare.md",
-    "bozze messaggi/shockdistruttivo cig3.md",
-    "bozze messaggi/mael riguardo a leonardo.md",
     "laboratori.md",
     "istruzioni per scaricare musescore e audacity.md",
-    "concertinoingiardino tre/main concertino in giardino tre.md",
     "edone 29 marzo.md",
-    "concertinoingiardino tre/concertinoingiardino tre chiamata 2025-03-07.md",
-    "concertinoingiardino tre/draft proposte cig3.md",
-    "concertinoingiardino tre/band concertinoingiardino tre.md",
-    "bozze messaggi/sonars cig3.md",
     "soldi madre.md",
     "musescore.com.png",
     "musescore.org.png",

@@ -15,7 +15,6 @@
     tbf la vedo dura, vorranno un bel po' di soldi
     mostrano interesse e chiedono di com'è fatto l'impianto audio
 - [ ] club catastrofe
-	[[shockdistruttivo cig3]]
     scritto a shockdistruttivo 10 marzo 11:33  
     12:41 chiede info riguardo a quanto suonare e situa mezzi pubblici
     14:01 gli dico del treno a trecelle + durata 20-50 minuti
@@ -32,8 +31,10 @@
     ci fanno sapere riguardo a durata concerto
     per adesso hanno 4 tracce
 - [ ] sonars
-    preparato draft del messaggio [[sonars cig3]] ma aspetto di capire se sono ancora in attività
-    * chiesto a lucacoluccia se li conosce
+    preparato draft del messaggio ma aspetto di capire se sono ancora in attività
+    * chiesto a lucacoluccia se li conosce -> dice sono inattivi ma scrivere a frederick
     * chiesto a giovo dust se li conosce
 - [ ] dogs i know
     chiesto a mael se mi da il suo numero... lol
+- [ ] frederick paysden
+    scritto su instagram 11 marzo 20:50
