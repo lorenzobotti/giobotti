@@ -10,6 +10,9 @@
     scritto a emacoppo 10 marzo 09:20
 - [ ] blk donuts
     scritto a sirbu 10 marzo 09:52
+    ha chiesto info extra sulle casse e gliele ho mandate con dodici ore di ritardo
+    dice che in base alle casse decidono se suonare
+    tbf la vedo dura, vorranno un bel po' di soldi
 - [ ] club catastrofe
 	[[shockdistruttivo cig3]]
     scritto a shockdistruttivo 10 marzo 11:33  
@@ -23,6 +26,10 @@
     scritto 10 marzo 11:51
     risposta affermativa, dice che si tira insieme per un set + chiede quanto suonare
     13:45 gli dico durata 20-50 minuti
+- [x] tnhx
+    chiesto a safiye e dice di sì! loro preferiscono 8 GIUGNO per avere più tempo per finire l'ep
+    ci fanno sapere riguardo a durata concerto
+    per adesso hanno 4 tracce
 - [ ] sonars
     preparato draft del messaggio [[sonars cig3]] ma aspetto di capire se sono ancora in attività
     * chiesto a lucacoluccia se li conosce
