@@ -2,6 +2,8 @@
 15° anniversario di edonè
 turtles all the way down concertino 20 minuti
 
+evento è dalle 17:00 alle 01:00
+
 riusciamo a finire creeks entro allora?
 
 ## scaletta
