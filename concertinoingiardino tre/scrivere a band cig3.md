@@ -6,8 +6,9 @@
 - [x] turtles all the way down (a win is a win)
 - [ ] ode and terry
     scritto a ode 10 marzo 09:12 -> excited, si sente con terry
-- [ ] zeptepi
+- [x] zeptepi
     scritto a emacoppo 10 marzo 09:20
+    dato conferma 11 marzo 21:55
 - [x] blk donuts
     scritto a sirbu 10 marzo 09:52
     ha chiesto info extra sulle casse e gliele ho mandate con dodici ore di ritardo
@@ -39,3 +40,6 @@
     chiesto a mael se mi da il suo numero... lol
 - [ ] frederick paysden
     scritto su instagram 11 marzo 20:50
+- marlon **NO**
+    scritto su instagram 11 marzo 21:07
+	è via da bergamo in quel periodo :(
