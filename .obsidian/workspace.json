@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concertinoingiardino tre/draft proposte cig3.md",
+                "file": "concertinoingiardino tre/scrivere a band cig3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "draft proposte cig3"
-            }
-          },
-          {
-            "id": "718dd8f3031ccc01",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "edone 29 marzo.md",
-                "bFile": "edone 29 marzo.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: edone 29 marzo"
+              "title": "scrivere a band cig3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,8 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "718dd8f3031ccc01",
+  "active": "49412d955fa6f976",
   "lastOpenFiles": [
+    "concertinoingiardino tre/band confermate cig3.md",
+    "concertinoingiardino tre/durata band confermate cig3.md",
     "concertinoingiardino tre/scrivere a band cig3.md",
     "concertinoingiardino tre/draft proposte cig3.md",
     "cose fighe da googlare.md",
