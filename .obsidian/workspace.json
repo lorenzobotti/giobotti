@@ -13,15 +13,30 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "accordi tatwd per jay.md",
-                "bFile": "accordi tatwd per jay.md",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: accordi tatwd per jay"
+              "title": "Diff: workspace.json"
+            }
+          },
+          {
+            "id": "49412d955fa6f976",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "100eb2c07d934f48",
+  "active": "49412d955fa6f976",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "concertinoingiardino tre/scrivere a band cig3.md",
     "accordi tatwd per jay.md",
     "accordi cinema all'aperto per jay.md",
