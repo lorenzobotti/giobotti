@@ -16,10 +16,11 @@
     tbf la vedo dura, vorranno un bel po' di soldi
     mostrano interesse e chiedono di com'è fatto l'impianto audio
     dicono ci sono tranne l'8 giugno
-- [ ] club catastrofe
+- [x] club catastrofe
     scritto a shockdistruttivo 10 marzo 11:33  
     12:41 chiede info riguardo a quanto suonare e situa mezzi pubblici
     14:01 gli dico del treno a trecelle + durata 20-50 minuti
+    12 marzo 15:02 dà conferma e info
 - [ ] bezna selhani
     scritto a lorenzo 10 marzo 11:35 -> "ti faccio sapere"
 - [ ] fede vipera
@@ -38,8 +39,13 @@
     * chiesto a giovo dust se li conosce
 - [ ] dogs i know
     chiesto a mael se mi da il suo numero... lol
+    numero me l'ha mandato marlon also lol
+    DA CONTATTARE
 - [ ] frederick paysden
     scritto su instagram 11 marzo 20:50
 - marlon **NO**
     scritto su instagram 11 marzo 21:07
 	è via da bergamo in quel periodo :(
+- [ ] jacopo biffi
+    prima aspetto conferma da spaziotempo
+    DA CONTATTARE
