@@ -4,8 +4,10 @@
 ## cose da organizzare
 - [ ] scrivere a band
     [[scrivere a band cig3]]
-    - [ ] rispondere info mezzi + tempo concerto shockdistruttivo
+    - [x] rispondere info mezzi + tempo concerto shockdistruttivo
 - [x] scrivere a femministenellaforesta
-    - [ ] sollecitare conferma a femministenellaforesta
-- [ ] confermare date a spaziotempo
+    - [x] sollecitare conferma a femministenellaforesta
+- [x] confermare date a spaziotempo
+    - [ ] attendere conferma da parte loro
+        gli ho detto 25 maggio, 1 giugno o 8 giugno
 - [ ] sentirsi con giulia e lelo per la grafica

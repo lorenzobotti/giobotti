@@ -33,16 +33,18 @@
     chiesto a safiye e dice di sì! loro preferiscono 8 GIUGNO per avere più tempo per finire l'ep
     ci fanno sapere riguardo a durata concerto
     per adesso hanno 4 tracce
-- [ ] sonars
+- * sonars **NO**
     preparato draft del messaggio ma aspetto di capire se sono ancora in attività
     * chiesto a lucacoluccia se li conosce -> dice sono inattivi ma scrivere a frederick
     * chiesto a giovo dust se li conosce
+    scritto a frederick e mi fa che non sono più attivi
 - [ ] dogs i know
     chiesto a mael se mi da il suo numero... lol
     numero me l'ha mandato marlon also lol
     DA CONTATTARE
 - [ ] frederick paysden
     scritto su instagram 11 marzo 20:50
+    dice che niente più sonars MA lui fa musica acustica per aprire le danze
 - marlon **NO**
     scritto su instagram 11 marzo 21:07
 	è via da bergamo in quel periodo :(
