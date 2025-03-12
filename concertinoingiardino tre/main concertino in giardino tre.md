@@ -7,6 +7,10 @@
     - [x] rispondere info mezzi + tempo concerto shockdistruttivo
     - [ ] scrivere a dogsiknow
     - [ ] scrivere a jacopobiffi
+    - [ ] review proposte ode
+    - [ ] review proposte marlon
+    - [ ] sollecitare ode
+    - [ ] sollecitare bezna selhani
 - [x] scrivere a femministenellaforesta
     - [x] sollecitare conferma a femministenellaforesta
 - [x] confermare date a spaziotempo
