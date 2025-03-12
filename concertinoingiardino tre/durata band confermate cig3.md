@@ -5,13 +5,10 @@
 | tatwd           | 30 minuti o più                |
 | zeptepi         | 30 minuti o più                |
 | blk donuts      | 30 minuti o più                |
-| purururururuh   | 15 minuti o più                |
+| matteo spinelli | 15 minuti o più                |
 | club catastrofe | 4 canzoni - 20 minuti          |
 | tnhx            | 4 - 6 canzoni (15 - 30 minuti) |
 | **totale**      | 2h50m - 4h20m                  |
-
-
-
 
 ### club catastrofe
 sono in due  

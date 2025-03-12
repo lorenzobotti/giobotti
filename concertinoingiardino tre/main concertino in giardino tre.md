@@ -5,6 +5,8 @@
 - [ ] scrivere a band
     [[scrivere a band cig3]]
     - [x] rispondere info mezzi + tempo concerto shockdistruttivo
+    - [ ] scrivere a dogsiknow
+    - [ ] scrivere a jacopobiffi
 - [x] scrivere a femministenellaforesta
     - [x] sollecitare conferma a femministenellaforesta
 - [x] confermare date a spaziotempo
