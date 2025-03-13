@@ -3,6 +3,7 @@
 [presenterm](https://github.com/mfontanini/presenterm/tree/master) - terminal markdown presentation tool  
 [mini-os](https://minios.dev/) - live linux con persistenza (credo)  
 [cobalt.tools](https://cobalt.tools/) - youtube-to-mp3 ma anarchico  
+[tinylytics](https://tinylytics.app/) - gdpr compliant privacy respecting analytics  
 
 
 
