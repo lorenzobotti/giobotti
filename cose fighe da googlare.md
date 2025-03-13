@@ -22,3 +22,10 @@
 [Boing Boing](https://boingboing.net) - Eclectic mix of technology, science, and oddities  
 [Quanta Magazine](https://quantamagazine.org) - Accessible science articles  
 [The Marginalian](https://themarginalian.org) - Thoughtful explorations of creativity and meaning  
+
+
+
+## bookmarks
+[commento riguardo a font dithering](https://news.ycombinator.com/item?id=4957185)
+[how fm radio works](https://obrhubr.org/fm-radio)
+[the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
