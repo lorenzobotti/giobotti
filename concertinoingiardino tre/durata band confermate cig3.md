@@ -1,15 +1,15 @@
 #concertinoingiardino_tre
 
-| band            | durata                         | 25 maggio | 1 giugno | 8 giugno  | 15 giugno |
-| --------------- | ------------------------------ | --------- | -------- | --------- | --------- |
-| tatwd           | 30 minuti o più                | sì        | sì       | sì        | sì        |
-| ode&terry       | 35-40                          | + o -     | + o -    | + o -     | + o -     |
-| zeptepi         | 30 minuti o più                | sì        | sì       | sì        | ?         |
-| blk donuts      | 30 minuti o più                | sì        | sì       | NO        | ?         |
-| matteo spinelli | 15 minuti o più                | sì        | sì       | sì        | ?         |
-| club catastrofe | 4 canzoni - 20 minuti          | sì        | sì       | sì        | NO        |
-| tnhx            | 4 - 6 canzoni (15 - 30 minuti) | sì        | sì       | sì (pref) | ?         |
-| **totale**      | 3h20m - 5h                     |           |          |           |           |
+| band            | durata                         | 25 maggio | 1 giugno  | 8 giugno  | 15 giugno | cachet da vedere  |
+| --------------- | ------------------------------ | --------- | --------- | --------- | --------- | ----------------- |
+| tatwd           | 30 minuti o più                | sì        | sì        | sì        | sì        | €45               |
+| ode&terry       | 35-40                          | probabile | probabile | probabile | probabile | €45               |
+| zeptepi         | 30 minuti o più                | sì        | sì        | sì        | ?         | €45               |
+| blk donuts      | 30 minuti o più                | sì        | sì        | NO        | ?         | €80               |
+| matteo spinelli | 15 minuti o più                | sì        | sì        | sì        | ?         | €30               |
+| club catastrofe | 4 canzoni - 20 minuti          | sì        | sì        | sì        | NO        | 2 bigl. del treno |
+| tnhx            | 4 - 6 canzoni (15 - 30 minuti) | sì        | sì        | sì (pref) | ?         | €35               |
+| **totale**      | 3h20m - 5h                     |           |           |           |           | €280 + 2 bigl.    |
 
 ### club catastrofe
 sono in due  
