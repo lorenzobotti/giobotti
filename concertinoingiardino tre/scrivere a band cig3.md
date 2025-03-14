@@ -4,8 +4,10 @@
 [[draft proposte cig3]]
 
 - [x] turtles all the way down (a win is a win)
-- [ ] ode and terry
+- [x] ode and terry
     scritto a ode 10 marzo 09:12 -> excited, si sente con terry
+    alla jam di 13 marzo mi dice che praticamente ci sono anche se terry non ha dato super conferma
+    boh io mi comporto come se ci sonos
 - [x] zeptepi
     scritto a emacoppo 10 marzo 09:20
     dato conferma 11 marzo 21:55
